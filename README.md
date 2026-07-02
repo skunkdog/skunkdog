@@ -10,4 +10,4 @@
 `creative software with security in mind` 
 `learning`
 
-<img align="center"  alt="openbsd" src="https://www.openbsd.org/images/openbsd22_cover.gif"/>
+<img align="center"  alt="openbsd" src="[https://www.openbsd.org/images/openbsd22_cover.gif](https://www.openbsd.org/images/Ponderosa.jpg)"/>
