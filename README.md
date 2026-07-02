@@ -1,10 +1,7 @@
 ## I'm skunkdog
-- Self-taught programmer.
-- A 16 year old while being a:
-  - 🧑‍🎓 student & 🧑‍💻 developer
+- A 16 year old student and developer.
 - How to reach me:
-  -  (discord)
-  -  (email)
+  -  (email) skunkdog@cocaine.ninja (PLZ WRITE ME!!!)
 - Proud emacs user.
 - Security-obsessed, overcautious paranoid.
 - Looking forward to connections.
