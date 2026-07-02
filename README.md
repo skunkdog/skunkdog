@@ -1,11 +1,13 @@
 ## I'm skunkdog
-- Self-taught programmer 
+- Self-taught programmer.
 - A 16 year old while being a:
   - 🧑‍🎓 student & 🧑‍💻 developer
 - How to reach me:
   -  (discord)
   -  (email)
-- Looking forward to connections 
+- Proud emacs user.
+- Security-obsessed, overcautious paranoid.
+- Looking forward to connections.
 
 ## My Interests 
 `creative software with security in mind` 
