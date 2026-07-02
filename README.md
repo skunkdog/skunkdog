@@ -1,5 +1,11 @@
 ## I'm skunkdog
-<img align="right" alt="openbsd" src="https://www.openbsd.org/images/Ponderosa.jpg"/>
+
+<img alt="openbsd" 
+     align="right"
+     src="https://www.openbsd.org/images/CoralFever.gif"
+     style="float:right; width:330px; margin:0 0px 0px 0px;">
+
+
 
 - A 16 year old student and developer.
 - How to reach me:
