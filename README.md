@@ -1,4 +1,4 @@
-<h2>I'm skunkdog</h2> 
+## I'm skunkdog
 <img align="right" alt="openbsd" src="https://www.openbsd.org/images/Ponderosa.jpg"/>
 
 - A 16 year old student and developer.
