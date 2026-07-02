@@ -6,8 +6,8 @@
 
 
 - A 16 year old student and developer.
-- How to reach me:
-  - (email) skunkdog@cocaine.ninja 
 - Proud emacs user.
-- Security-obsessed, overcautious paranoid.
-- Looking forward to connections.
+- **Security-obsessed, overcautious paranoid.**
+- How to reach me:  
+  - (email) skunkdog@cocaine.ninja 
+- Looking forward to connections!!
