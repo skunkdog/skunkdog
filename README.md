@@ -1,7 +1,7 @@
 ## I'm skunkdog
 - A 16 year old student and developer.
 - How to reach me:
-  -  (email) skunkdog@cocaine.ninja (PLZ WRITE ME!!!)
+  -  (email) skunkdog@cocaine.ninja 
 - Proud emacs user.
 - Security-obsessed, overcautious paranoid.
 - Looking forward to connections.
