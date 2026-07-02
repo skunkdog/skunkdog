@@ -11,8 +11,4 @@
 `creative software with security in mind` 
 `learning`
 
-<p align="center">
-  Goodbye!
-</p>
-
-<img align="center"  alt="openbsd" src="https://www.openbsd.org/images/OneFishTwoFish.png"/>
+<img align="center"  alt="openbsd" src="https://www.openbsd.org/images/openbsd22_cover.gif"/>
