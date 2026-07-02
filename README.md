@@ -1,16 +1,19 @@
-## Hi there 👋
+<img align="center"  alt="openbsd" src="https://www.openbsd.org/images/OneFishTwoFish.png"/>
 
-<!--
-**skunkdog/skunkdog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I'm skunkdog
+- Self-taught programmer 
+- A 16 year old while being a:
+  - 🧑‍🎓 student & 🧑‍💻 developer
+- How to reach me:
+  -  (discord)
+  -  (email)
+- Looking forward to connections 
 
-Here are some ideas to get you started:
+## My Interests 
+`creative software with security in mind` 
+`learning`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<p align="center">
+  Goodbye!
+</p>
