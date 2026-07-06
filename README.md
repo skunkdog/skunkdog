@@ -9,5 +9,6 @@
 - Proud emacs user.
 - **Security-obsessed, overcautious paranoid.**
 - How to reach me:  
-  - (email) skunkdog@cocaine.ninja 
+  - (email) skunkdog@cocaine.ninja
+  - (serious email) gdascota@gmail.com
 - Looking forward to connections!!
