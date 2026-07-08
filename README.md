@@ -1,7 +1,7 @@
 ## I'm skunkdog
 
 
-<img alt="openbsd" align="right" src="https://www.openbsd.org/images/openbsd23_cover.gif" style="float:right; width:160px; margin:0 20px 10px 20px;"/>
+<img alt="openbsd" align="right" src="https://media1.tenor.com/m/eFgn_9-9DbYAAAAd/openbsd-puffy.gif" style="float:right; width:200px; margin:0 30px 10px 20px;"/>
 
 
 
