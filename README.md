@@ -6,8 +6,8 @@
 
 
 - A 16 year old student and developer.
-- Proud emacs user.
 - **Security-obsessed, overcautious paranoid.**
+- Proud emacs user.
 - How to reach me:  
   - (email) gdascota@gmail.com
   - (not serious email) skunkdog@cocaine.ninja 
